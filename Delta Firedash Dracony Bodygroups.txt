@@ -758,7 +758,7 @@
 				["Brightness"] = 1,
 				["BoneMerge"] = false,
 				["BlurLength"] = 0,
-				["Position"] = Vector(-4.617, 37.687, -0.06103515625),
+				["Position"] = Vector(-5.147, 39.987, -0.1610),
 				["AngleOffset"] = Angle(0, 0, 0),
 				["AlternativeScaling"] = false,
 				["Hide"] = false,
