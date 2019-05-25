@@ -1380,7 +1380,7 @@
 				["Hide"] = false,
 				["Name"] = "",
 				["EditorExpand"] = true,
-				["Arguments"] = "5",
+				["Arguments"] = "p",
 				["Event"] = "button",
 				["ClassName"] = "event",
 				["ZeroEyePitch"] = false,
