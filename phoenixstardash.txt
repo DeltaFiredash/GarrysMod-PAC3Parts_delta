@@ -629,7 +629,7 @@
 				["LodOverride"] = -1,
 				["BlurSpacing"] = 0,
 				["Alpha"] = 1,
-				["Material"] = "https://raw.githubusercontent.com/DeltaFiredash/GarrysMod-PAC3Parts_delta/master/textures/phoenix_stardash/dragon_horns_v2.png",
+				["Material"] = "https://raw.githubusercontent.com/DeltaFiredash/GarrysMod-PAC3Parts_delta/master/textures/phoenix_stardash/dragon_horns.png",
 				["UseWeaponColor"] = false,
 				["UsePlayerColor"] = false,
 				["UseLegacyScale"] = false,
